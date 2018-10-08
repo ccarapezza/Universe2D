@@ -1,0 +1,2511 @@
+fileFormatVersion: 2
+guid: 62e3adaa2176d8949bb3246b8670bf96
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: megaman-sprite-sheet-png-8_0
+    21300002: megaman-sprite-sheet-png-8_1
+    21300004: megaman-sprite-sheet-png-8_2
+    21300006: megaman-sprite-sheet-png-8_3
+    21300008: megaman-sprite-sheet-png-8_4
+    21300010: megaman-sprite-sheet-png-8_5
+    21300012: megaman-sprite-sheet-png-8_6
+    21300014: megaman-sprite-sheet-png-8_7
+    21300016: megaman-sprite-sheet-png-8_8
+    21300018: megaman-sprite-sheet-png-8_9
+    21300020: megaman-sprite-sheet-png-8_10
+    21300022: megaman-sprite-sheet-png-8_11
+    21300024: megaman-sprite-sheet-png-8_12
+    21300026: megaman-sprite-sheet-png-8_13
+    21300028: megaman-sprite-sheet-png-8_14
+    21300030: megaman-sprite-sheet-png-8_15
+    21300032: megaman-sprite-sheet-png-8_16
+    21300034: megaman-sprite-sheet-png-8_17
+    21300036: megaman-sprite-sheet-png-8_18
+    21300038: megaman-sprite-sheet-png-8_19
+    21300040: megaman-sprite-sheet-png-8_20
+    21300042: megaman-sprite-sheet-png-8_21
+    21300044: megaman-sprite-sheet-png-8_22
+    21300046: megaman-sprite-sheet-png-8_23
+    21300048: megaman-sprite-sheet-png-8_24
+    21300050: megaman-sprite-sheet-png-8_25
+    21300052: megaman-sprite-sheet-png-8_26
+    21300054: megaman-sprite-sheet-png-8_27
+    21300056: megaman-sprite-sheet-png-8_28
+    21300058: megaman-sprite-sheet-png-8_29
+    21300060: megaman-sprite-sheet-png-8_30
+    21300062: megaman-sprite-sheet-png-8_31
+    21300064: megaman-sprite-sheet-png-8_32
+    21300066: megaman-sprite-sheet-png-8_33
+    21300068: megaman-sprite-sheet-png-8_34
+    21300070: megaman-sprite-sheet-png-8_35
+    21300072: megaman-sprite-sheet-png-8_36
+    21300074: megaman-sprite-sheet-png-8_37
+    21300076: megaman-sprite-sheet-png-8_38
+    21300078: megaman-sprite-sheet-png-8_39
+    21300080: megaman-sprite-sheet-png-8_40
+    21300082: megaman-sprite-sheet-png-8_41
+    21300084: megaman-sprite-sheet-png-8_42
+    21300086: megaman-sprite-sheet-png-8_43
+    21300088: megaman-sprite-sheet-png-8_44
+    21300090: megaman-sprite-sheet-png-8_45
+    21300092: megaman-sprite-sheet-png-8_46
+    21300094: megaman-sprite-sheet-png-8_47
+    21300096: megaman-sprite-sheet-png-8_48
+    21300098: megaman-sprite-sheet-png-8_49
+    21300100: megaman-sprite-sheet-png-8_50
+    21300102: megaman-sprite-sheet-png-8_51
+    21300104: megaman-sprite-sheet-png-8_52
+    21300106: megaman-sprite-sheet-png-8_53
+    21300108: megaman-sprite-sheet-png-8_54
+    21300110: megaman-sprite-sheet-png-8_55
+    21300112: megaman-sprite-sheet-png-8_56
+    21300114: megaman-sprite-sheet-png-8_57
+    21300116: megaman-sprite-sheet-png-8_58
+    21300118: megaman-sprite-sheet-png-8_59
+    21300120: megaman-sprite-sheet-png-8_60
+    21300122: megaman-sprite-sheet-png-8_61
+    21300124: megaman-sprite-sheet-png-8_62
+    21300126: megaman-sprite-sheet-png-8_63
+    21300128: megaman-sprite-sheet-png-8_64
+    21300130: megaman-sprite-sheet-png-8_65
+    21300132: megaman-sprite-sheet-png-8_66
+    21300134: megaman-sprite-sheet-png-8_67
+    21300136: megaman-sprite-sheet-png-8_68
+    21300138: megaman-sprite-sheet-png-8_69
+    21300140: megaman-sprite-sheet-png-8_70
+    21300142: megaman-sprite-sheet-png-8_71
+    21300144: megaman-sprite-sheet-png-8_72
+    21300146: megaman-sprite-sheet-png-8_73
+    21300148: megaman-sprite-sheet-png-8_74
+    21300150: megaman-sprite-sheet-png-8_75
+    21300152: megaman-sprite-sheet-png-8_76
+    21300154: megaman-sprite-sheet-png-8_77
+    21300156: megaman-sprite-sheet-png-8_78
+    21300158: megaman-sprite-sheet-png-8_79
+    21300160: megaman-sprite-sheet-png-8_80
+    21300162: megaman-sprite-sheet-png-8_81
+    21300164: megaman-sprite-sheet-png-8_82
+    21300166: megaman-sprite-sheet-png-8_83
+    21300168: megaman-sprite-sheet-png-8_84
+    21300170: megaman-sprite-sheet-png-8_85
+    21300172: megaman-sprite-sheet-png-8_86
+    21300174: megaman-sprite-sheet-png-8_87
+    21300176: megaman-sprite-sheet-png-8_88
+    21300178: megaman-sprite-sheet-png-8_89
+    21300180: megaman-sprite-sheet-png-8_90
+    21300182: megaman-sprite-sheet-png-8_91
+    21300184: megaman-sprite-sheet-png-8_92
+    21300186: megaman-sprite-sheet-png-8_93
+    21300188: megaman-sprite-sheet-png-8_94
+    21300190: megaman-sprite-sheet-png-8_95
+    21300192: megaman-sprite-sheet-png-8_96
+    21300194: megaman-sprite-sheet-png-8_97
+    21300196: megaman-sprite-sheet-png-8_98
+    21300198: megaman-sprite-sheet-png-8_99
+    21300200: megaman-sprite-sheet-png-8_100
+    21300202: megaman-sprite-sheet-png-8_101
+    21300204: megaman-sprite-sheet-png-8_102
+    21300206: megaman-sprite-sheet-png-8_103
+    21300208: megaman-sprite-sheet-png-8_104
+    21300210: megaman-sprite-sheet-png-8_105
+    21300212: megaman-sprite-sheet-png-8_106
+    21300214: megaman-sprite-sheet-png-8_107
+    21300216: megaman-sprite-sheet-png-8_108
+    21300218: megaman-sprite-sheet-png-8_109
+    21300220: megaman-sprite-sheet-png-8_110
+    21300222: megaman-sprite-sheet-png-8_111
+    21300224: megaman-sprite-sheet-png-8_112
+    21300226: megaman-sprite-sheet-png-8_113
+    21300228: megaman-sprite-sheet-png-8_114
+    21300230: megaman-sprite-sheet-png-8_115
+    21300232: megaman-sprite-sheet-png-8_116
+    21300234: megaman-sprite-sheet-png-8_117
+    21300236: megaman-sprite-sheet-png-8_118
+    21300238: megaman-sprite-sheet-png-8_119
+    21300240: megaman-sprite-sheet-png-8_120
+    21300242: megaman-sprite-sheet-png-8_121
+    21300244: megaman-sprite-sheet-png-8_122
+    21300246: megaman-sprite-sheet-png-8_123
+    21300248: megaman-sprite-sheet-png-8_124
+    21300250: megaman-sprite-sheet-png-8_125
+    21300252: megaman-sprite-sheet-png-8_126
+    21300254: megaman-sprite-sheet-png-8_127
+    21300256: megaman-sprite-sheet-png-8_128
+    21300258: megaman-sprite-sheet-png-8_129
+    21300260: megaman-sprite-sheet-png-8_130
+    21300262: megaman-sprite-sheet-png-8_131
+    21300264: megaman-sprite-sheet-png-8_132
+    21300266: megaman-sprite-sheet-png-8_133
+    21300268: megaman-sprite-sheet-png-8_134
+    21300270: megaman-sprite-sheet-png-8_135
+    21300272: megaman-sprite-sheet-png-8_136
+    21300274: megaman-sprite-sheet-png-8_137
+    21300276: megaman-sprite-sheet-png-8_138
+    21300278: megaman-sprite-sheet-png-8_139
+    21300280: megaman-sprite-sheet-png-8_140
+    21300282: megaman-sprite-sheet-png-8_141
+    21300284: megaman-sprite-sheet-png-8_142
+    21300286: megaman-sprite-sheet-png-8_143
+    21300288: megaman-sprite-sheet-png-8_144
+    21300290: megaman-sprite-sheet-png-8_145
+    21300292: megaman-sprite-sheet-png-8_146
+    21300294: megaman-sprite-sheet-png-8_147
+    21300296: megaman-sprite-sheet-png-8_148
+    21300298: megaman-sprite-sheet-png-8_149
+    21300300: megaman-sprite-sheet-png-8_150
+    21300302: megaman-sprite-sheet-png-8_151
+    21300304: megaman-sprite-sheet-png-8_152
+    21300306: megaman-sprite-sheet-png-8_153
+    21300308: megaman-sprite-sheet-png-8_154
+    21300310: megaman-sprite-sheet-png-8_155
+    21300312: megaman-sprite-sheet-png-8_156
+    21300314: megaman-sprite-sheet-png-8_157
+    21300316: megaman-sprite-sheet-png-8_158
+    21300318: megaman-sprite-sheet-png-8_159
+    21300320: megaman-sprite-sheet-png-8_160
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_0
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_1
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_4
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 502
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_6
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 502
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_7
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 502
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_8
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 502
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 502
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_10
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 502
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_11
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 462
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 462
+        width: 20
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_13
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 461
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_14
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 461
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_15
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 462
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_16
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 462
+        width: 26
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_17
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 462
+        width: 22
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_18
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 461
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_19
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 462
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_20
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 462
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_21
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 462
+        width: 29
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_22
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 483
+        width: 13
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_23
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 469
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 422
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_25
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 422
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_26
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 421
+        width: 32
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_27
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 421
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_28
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 422
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 422
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_30
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 422
+        width: 31
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_31
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 421
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_32
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 422
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_33
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 422
+        width: 37
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 422
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_35
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 378
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_36
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 374
+        width: 15
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_37
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 371
+        width: 19
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_38
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 372
+        width: 23
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_39
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 371
+        width: 27
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_40
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 374
+        width: 24
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_41
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 378
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 378
+        width: 29
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_43
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 374
+        width: 24
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_44
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 371
+        width: 27
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_45
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_46
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 371
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_47
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 374
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_48
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 378
+        width: 36
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_49
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 323
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_50
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 323
+        width: 27
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 324
+        width: 28
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_52
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 324
+        width: 30
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_53
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 323
+        width: 27
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_54
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 323
+        width: 31
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_55
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 323
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_56
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 324
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_57
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 324
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_58
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 323
+        width: 32
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 270
+        width: 21
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_60
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 263
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_61
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 267
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 267
+        width: 20
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_63
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 263
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_64
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 264
+        width: 26
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 260
+        width: 21
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_66
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 265
+        width: 18
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_67
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 272
+        width: 28
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_68
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 272
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_69
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 272
+        width: 34
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_70
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 272
+        width: 29
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_71
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 272
+        width: 31
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_72
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 272
+        width: 35
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_73
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 249
+        width: 18
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_74
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 249
+        width: 20
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_75
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 249
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_76
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 249
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_77
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 249
+        width: 22
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_78
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 207
+        width: 28
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_79
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 207
+        width: 38
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_80
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 207
+        width: 37
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_81
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 207
+        width: 48
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_82
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 207
+        width: 30
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_83
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 207
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_84
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 207
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_85
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 207
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_86
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 207
+        width: 30
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_87
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 207
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_88
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 207
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_89
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 223
+        width: 6
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_90
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 222
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_91
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 222
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_92
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 221
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_93
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 219
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_94
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 159
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 159
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_96
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 159
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_97
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 155
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_98
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 159
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_99
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 155
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_100
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 159
+        width: 29
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_101
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 155
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_102
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 159
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_103
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 159
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_104
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 160
+        width: 26
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_105
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 160
+        width: 27
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_106
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 180
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_107
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 159
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_108
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 159
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_109
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 159
+        width: 29
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_110
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 159
+        width: 18
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_111
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 110
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_112
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 110
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_113
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 111
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_114
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 145
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_115
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 146
+        width: 14
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_116
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 142
+        width: 27
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_117
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 111
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_118
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 110
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_119
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 110
+        width: 31
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_120
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 109
+        width: 32
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_121
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 110
+        width: 31
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_122
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 117
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_123
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 117
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_124
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 117
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_125
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 115
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_126
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 115
+        width: 27
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_127
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 130
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_128
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 125
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_129
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 117
+        width: 24
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_130
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 72
+        width: 35
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_131
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 72
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_132
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 72
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_133
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 72
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_134
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 72
+        width: 27
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_135
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 72
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_136
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 72
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_137
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 72
+        width: 34
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 71
+        width: 29
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_139
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 70
+        width: 23
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 71
+        width: 25
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 71
+        width: 41
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_142
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 72
+        width: 30
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 72
+        width: 27
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_144
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 72
+        width: 30
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_145
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 30
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_146
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 18
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_147
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 9
+        width: 22
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_148
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 31
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_149
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 7
+        width: 25
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_150
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 11
+        width: 26
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_151
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 8
+        width: 30
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_152
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 8
+        width: 30
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_153
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 11
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_154
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 11
+        width: 24
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_155
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 10
+        width: 21
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_156
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 21
+        width: 20
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_157
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 27
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_158
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_159
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 20
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: megaman-sprite-sheet-png-8_160
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 20
+        width: 40
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: Test
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
