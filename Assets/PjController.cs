@@ -61,7 +61,7 @@ public class PjController : MonoBehaviour {
         Walk = Input.GetAxis("Horizontal") != 0;
         transform.position += Vector3.right * speed * Input.GetAxis("Horizontal");
 
-        if (Input.GetKey(KeyCode.Space) && IsInGround())
+        if (Input.GetButton("Fire3") && IsInGround())
             rb.AddForce(Vector2.up * jumpForce);
     }
 }
