@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class FollowPlayer : MonoBehaviour {
 
-	// Use this for initialization
-	void Start () {
-		
-	}
-	
-	// Update is called once per frame
+    public GameObject player;
+    public float dump;
+
 	void Update () {
-		
+        transform.position = Vector3.Lerp(transform.position, new Vector3(player.transform.position.x, player.transform.position.y, transform.position.z) , Time.deltaTime * dump);
 	}
 }

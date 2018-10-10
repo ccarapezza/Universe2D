@@ -31,9 +31,12 @@ public class PjController : MonoBehaviour {
     }
 
     bool IsInGround() {
-        RaycastHit2D raycastHit = Physics2D.Raycast(transform.position, Vector3.down, groundChekerDistance);
-        Debug.DrawRay(transform.position, Vector3.down * groundChekerDistance);
-        if (raycastHit.collider!=null)
+        RaycastHit2D raycastHitLeft = Physics2D.Raycast(transform.position + Vector3.left * bodyCollider.size.x * transform.localScale.x / 2, Vector3.down, groundChekerDistance);
+        RaycastHit2D raycastHitRight = Physics2D.Raycast(transform.position + Vector3.right * bodyCollider.size.x * transform.localScale.x / 2, Vector3.down, groundChekerDistance);
+        
+        Debug.DrawRay(transform.position + Vector3.left * bodyCollider.size.x * transform.localScale.x / 2, Vector3.down * groundChekerDistance);
+        Debug.DrawRay(transform.position + Vector3.right * bodyCollider.size.x * transform.localScale.x / 2, Vector3.down * groundChekerDistance);
+        if (raycastHitLeft.collider!=null || raycastHitRight.collider != null)
             return true;
         else
             return false;
@@ -47,13 +50,11 @@ public class PjController : MonoBehaviour {
         animator.SetFloat("VerticalVelocity", rb.velocity.y);
         animator.SetBool("InGround", IsInGround());
 
-        print("Ground: " + IsInGround());
-
         if (Walk)
             spriteRenderer.flipX = Input.GetAxis("Horizontal") < 0;
 
-        bodyCollider.size = spriteRenderer.bounds.size;
-        bodyCollider.offset = new Vector2(0 , spriteRenderer.bounds.size.y * 0.5f);
+        bodyCollider.size = new Vector2(spriteRenderer.bounds.size.x / transform.localScale.x, spriteRenderer.bounds.size.y / transform.localScale.y);
+        bodyCollider.offset = new Vector2(0 , spriteRenderer.bounds.size.y / transform.localScale.y * 0.5f);
     }
 
     private void FixedUpdate()
@@ -61,7 +62,7 @@ public class PjController : MonoBehaviour {
         Walk = Input.GetAxis("Horizontal") != 0;
         transform.position += Vector3.right * speed * Input.GetAxis("Horizontal");
 
-        if (Input.GetButton("Fire3") && IsInGround())
+        if (Input.GetButtonDown("Fire3") && IsInGround())
             rb.AddForce(Vector2.up * jumpForce);
     }
 }
