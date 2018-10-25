@@ -4,31 +4,51 @@ using UnityEngine;
 
 public class SeamlessManager : MonoBehaviour {
 
+    public Renderer backgroundRenderer;
     public GameObject playerCamera;
     public GameObject player;
-    public BoxCollider2D startWorld;
-    public BoxCollider2D endWorld;
-
+    public float startWorld;
+    public float endWorld;
+    public float StartX { get{ return m_startX; } }
+    public float EndX { get { return m_endX; } }
+    public float horizontalScrollVelocity = 1;
+    public float verticalScrollVelocity = 1;
     private float m_startX;
     private float m_endX;
     private float m_worldSize;
     private Camera m_playerCamera;
-    private GameObject m_secondaryCamera;
+    private Camera m_secondaryCamera;
     private float m_halfFurstrumSize;
+
+    private Vector3 m_oldPos;
 
     private void Start()
     {
-        m_startX = startWorld.transform.position.x - startWorld.size.x * startWorld.transform.localScale.x / 2;
-        m_endX = endWorld.transform.position.x + endWorld.size.x * endWorld.transform.localScale.x / 2;
+        m_startX = startWorld - 0.5f;
+        m_endX = endWorld + 0.5f;
         m_worldSize = m_endX - m_startX;
-        m_secondaryCamera = Instantiate(playerCamera, playerCamera.transform);
-        m_secondaryCamera.GetComponent<FollowPlayer>().enabled = false;
+               
+        m_secondaryCamera = Instantiate(playerCamera.GetComponent<Camera>(), playerCamera.transform);
+
+
+        foreach (Transform child in m_secondaryCamera.transform)
+            Destroy(child.gameObject);
+
+        Destroy(m_secondaryCamera.GetComponent<FollowPlayer>());
+        Destroy(m_secondaryCamera.GetComponent<AudioListener>());
         m_secondaryCamera.transform.localPosition = Vector3.right * m_worldSize;
         m_playerCamera = playerCamera.GetComponent<Camera>();
         m_halfFurstrumSize = Vector3.Distance(m_playerCamera.transform.position, m_playerCamera.ViewportToWorldPoint(new Vector3(0, 0.5f, 0)));
+
+        m_oldPos = playerCamera.transform.position;
+        backgroundRenderer.material.mainTextureOffset = playerCamera.transform.position;
     }
 
     void Update () {
+        Vector2 diff = (m_oldPos - playerCamera.transform.position);
+        diff = new Vector2(diff.x * horizontalScrollVelocity, diff.y * verticalScrollVelocity);
+        backgroundRenderer.material.mainTextureOffset -= diff;
+
         if (player.transform.position.x > m_endX)
         {
             float oldX = player.transform.position.x;
@@ -43,12 +63,14 @@ public class SeamlessManager : MonoBehaviour {
             playerCamera.transform.position += Vector3.left * (oldX - player.transform.position.x);
         }
 
+        m_oldPos = playerCamera.transform.position;
+
         float leftLimitXPos = playerCamera.transform.position.x - m_halfFurstrumSize;
         float rightLimitXPos = playerCamera.transform.position.x + m_halfFurstrumSize;
 
         if (leftLimitXPos > m_startX && rightLimitXPos < m_endX)
         {
-            m_secondaryCamera.SetActive(false);
+            m_secondaryCamera.gameObject.SetActive(false);
         }
         else
         {
@@ -57,15 +79,14 @@ public class SeamlessManager : MonoBehaviour {
             else if (rightLimitXPos > m_endX)
                 m_secondaryCamera.transform.localPosition = Vector3.left * m_worldSize;
 
-            m_secondaryCamera.SetActive(true);
+            m_secondaryCamera.gameObject.SetActive(true);
         }
-
     }
 
     private void OnDrawGizmos()
     {
-        m_startX = startWorld.transform.position.x - startWorld.size.x * startWorld.transform.localScale.x * 0.5f;
-        m_endX = endWorld.transform.position.x + endWorld.size.x * endWorld.transform.localScale.x * 0.5f; ;
+        m_startX = startWorld - 0.5f;
+        m_endX = endWorld + 0.5f; ;
 
         Gizmos.color = Color.red;
         Gizmos.DrawSphere(new Vector3(m_startX, 0, 0), 0.25f);
